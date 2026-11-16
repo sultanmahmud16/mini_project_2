@@ -8,4 +8,6 @@ Personal portfolio website : Sultan Mahmud (CSE, IIUC 60th Batch).
 - Responsive for mobile and desktop
 - Hover effects on links, cards and buttons
 
+Github : https://sultanmahmud16.github.io/mini_project_2/
+
 
