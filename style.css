@@ -1,0 +1,11 @@
+html {
+  scroll-behavior: smooth;
+}
+
+section {
+  scroll-margin-top: 4.5rem;
+}
+
+#menu-toggle:checked ~ #mobile-menu {
+  display: flex;
+}
